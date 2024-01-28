@@ -6,15 +6,15 @@ Dice Game is a simple game that can be played by two players. It is a game of lu
 <img src="./images/hero.png"/>  
 </p>
 
-Click [here](https://rajeev-dice-game.netlify.app/) and test out Model Window.
+Click [here](https://rajeev-dice-game.netlify.app/) to play the game.
 
 ## Features and Interfaces
 
 - You and your friend can play the game by clicking on the `Roll Dice` button.
 
-- It also provides you to reset the game by clicking on the `New Game` button.
-
 - You can hold your score by clicking on the `Hold` button if you thought that next time you will get `1` at dice.
+
+- It also provides you to reset the game by clicking on the `New Game` button.
 
 - The player who scores 100 points first will win the game.
 
